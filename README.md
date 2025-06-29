@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -133,5 +133,4 @@
 
   <div class="text-container">
       <center><p><h1 bgcolor="#000080">Para los ojitos bonitos(❁´◡`❁)
-</body>
-</html>
+
